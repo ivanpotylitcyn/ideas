@@ -30,26 +30,83 @@ exiftool "Академик Мстислав Келдыш.jpg"
 # Фотографии
 
 ## Академик Мстислав Келдыш
-
 exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "Академик Мстислав Келдыш.jpg"
-
 ### Место съёмки
 Архипелаг Новая Земля
-
 ### Описание
 85-ая экспедиция научно-исследовательского судна "Академик Мстислав Келдыш" к суровым берегам Новой Земли.
 
 ## Мама
-
 exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "Мама.jpg"
 exiftool "Мама.jpg"
-
 ### Место съёмки
-село Канаевка
-
+Село Канаевка
 ### Описание
 Фотография мамы с урожаем на участке родного дома, который она оставила после школы. А теперь они с папой приезжают сюда каждые выходные, чтобы отдыхать от городской суеты.
 
+## Искровые разряды между облаками
+exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "Искровые разряды между облаками.jpg"
+exiftool "Искровые разряды между облаками.jpg"
+### Место съёмки
+Город Долгопрудный, МФТИ
+### Описание
+Летняя гроза надвигается на студентческий городок Физтеха. Через считанные минуты ливень смоет последние следы прошедшей сессии, и у студентов наступит долгожданное лето.
+
+
+## Папа
+exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "Папа.jpg"
+exiftool "Папа.jpg"
+### Место съёмки
+Село Канаевка
+### Описание
+
+
+## Пустота
+exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "Пустота.jpg"
+exiftool "Пустота.jpg"
+### Место съёмки
+Обское море
+### Описание
+
+
+## Звездопад
+exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "Звездопад.jpg"
+exiftool "Звездопад.jpg"
+### Место съёмки
+Село Канаевка
+### Описание
+
+
+## Фонарь
+exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "Фонарь.jpg"
+exiftool "Фонарь.jpg"
+### Место съёмки
+Дубна
+### Описание
+
+
+## 34 года
+exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "34 года.jpg"
+exiftool "34 года.jpg"
+### Место съёмки
+Дубна
+### Описание
+
+
+## Фрирайд
+exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "Фрирайд.jpg"
+exiftool "Фрирайд.jpg"
+### Место съёмки
+Дубна
+### Описание
+
+
+## Питер
+exiftool -Artist^= -Copyright^= -By-line^= -CopyrightNotice^= -Creator^= -Rights^= "Питер.jpg"
+exiftool "Питер.jpg"
+### Место съёмки
+Дубна
+### Описание
 
 <!-- ### Россия в лицах
 
